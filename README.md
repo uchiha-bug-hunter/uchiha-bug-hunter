@@ -105,8 +105,6 @@ Metasploit
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=uchiha-bug-hunter&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha-bug-hunter&layout=compact&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
@@ -130,20 +128,6 @@ Proof of Concept
 ↓
 Responsible Disclosure
 ```
-
----
-
-# 🚀 Team Mission
-
-### 👥 CODEOPS47
-
-Security research, vulnerability discovery, offensive security education, and open-source contributions.
-
-### 🏢 DigiScrypt
-
-Building secure software and supporting security-focused engineering initiatives.
-
-🌐 https://digiscrypt.com/
 
 ---
 
