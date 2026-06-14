@@ -8,8 +8,8 @@
 
 <p align="center">
 
-<a href="https://digiscrypt.com/">
-<img src="https://img.shields.io/badge/🏢%20DigiScrypt-Visit%20Website-0ea5e9?style=for-the-badge" />
+<a href="https://bugqore.com/">
+<img src="https://img.shields.io/badge/🏢%20BugQore-Visit%20Website-0ea5e9?style=for-the-badge" />
 </a>
 
 <img src="https://img.shields.io/badge/👥%20CODEOPS47-Security%20Team-7c3aed?style=for-the-badge" />
@@ -30,9 +30,7 @@
 
 Passionate Security Researcher focused on vulnerability discovery, bug bounty hunting, offensive security, and attack surface analysis.
 
-Currently contributing through:
-
-* 🏢 DigiScrypt
+* 🏢 BugQore
 * 👥 CODEOPS47 Security Team
 * 🌍 Open Source Security Community
 
